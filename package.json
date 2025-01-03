@@ -1,0 +1,22 @@
+{
+    "name": "super-json-database",
+    "version": "2.0.0",
+    "description": "Une base de données JSON super rapide, simple et puissante ⚡️",
+    "main": "index.js",
+    "repository": "git+https://github.com/Androz2091/super-json-database.git",
+    "author": "Henelio",
+    "license": "MIT",
+    "typings": "./index.d.ts",
+    "keywords": [
+        "json",
+        "database",
+        "db",
+        "jsondb",
+        "simple",
+        "fast",
+        "powerful",
+        "cache",
+        "compress",
+        "snapshot"
+    ]
+}
